@@ -10,7 +10,7 @@ La struttura del modello consente una duplice valutazione:
 *	Valutazioni di beneficio potenziale ex-ante (beneficio teorico) 
 *	Valutazione a consuntivo ex-post dei vantaggi ottenuti (monitoraggio)
 
-Prima immagine
+![alt text](https://github.com/Comune-Milano/ModelloDigitalizzazione/blob/main/static/img1.png)
 
 ## Struttura e composizione del modello
 Il modello è articolato in 3 semplici step di processo:
@@ -18,12 +18,12 @@ Il modello è articolato in 3 semplici step di processo:
 2.	Mappatura dei processi nelle varianti analogiche e digitali
 3.	Calcolo dei benefici secondo definiti indicatori di sintesi
 
-Seconda immagine
+![alt text](https://github.com/Comune-Milano/ModelloDigitalizzazione/blob/main/static/img2.png)
 
 ## KPI di sintesi per la quantificazione dei benefici
 La quantificazione dei benefici della digitalizzazione viene sintetizzata in 6 indicatori, di cui 3 riferiti alla PA e 3 al Cittadino, per mostrare il duplice effetto della digitalizzazione in termini di efficientamento della struttura organizzativa della PA e miglioramento del livello di servizio offerto al cittadino.
 
-Terza immagine
+![alt text](https://github.com/Comune-Milano/ModelloDigitalizzazione/blob/main/static/img3.png)
 
 ## Istruzioni d'uso
 Il modello è strutturato nelle seguenti 4 sezioni:
